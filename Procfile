@@ -1,0 +1,1 @@
+web: news/init -apikey $NEWS_API_KEY
