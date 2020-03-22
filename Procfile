@@ -1,1 +1,1 @@
-web: news/init -apikey $NEWS_API_KEY
+web: bin/go-search-news -apikey $NEWS_API_KEY
